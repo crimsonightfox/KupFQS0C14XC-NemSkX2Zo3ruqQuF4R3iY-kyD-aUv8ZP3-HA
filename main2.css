@@ -1,0 +1,270 @@
+body
+{
+margin:0;
+background-color: gray;
+}
+a
+{
+text-decoration:none;
+color:white;
+}
+.topnav
+{
+	height:49px;
+	background:#ff59a1;
+}
+#links
+{
+	float:left;
+	padding:15px;
+	margin:0 15 0 15;
+}
+#links:hover
+{
+	background:red;
+}
+#linksa
+{
+	float:right;
+}
+.content
+{
+	height:300px;
+	background-image:url(http://drive.google.com/uc?export=view&id=1vDLTdfiED9M2z1NbEjJeOX-utTsu51mp);
+	
+	background-position:50% 40%;
+}
+.content1
+{
+	height:300px;
+	background-image:url(http://drive.google.com/uc?export=view&id=1vDLTdfiED9M2z1NbEjJeOX-utTsu51mp);
+	background-position:center;
+}
+#contentsub
+{
+	background:#202020;
+	color:white;
+	opacity:1;
+	padding:20px;
+	border-radius:15px;
+	font-size:20px;
+}
+#subsub
+{
+	font-size:20px;
+}
+#space
+{
+	
+	background-image:url('http://drive.google.com/uc?export=view&id=1U4f4HI6PVT_LXFQH9Ug-qYGfC5hk4KwW');
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#side
+{
+	width:250;
+}
+#subtitle
+{
+	font-size:2em;
+	color:gold;
+}
+#subtitle:hover
+{
+	font-size:2em;
+	color:white;
+	text-decoration:underline;
+}
+#sub
+{
+	color:#ff0f9f;
+	font-style:italic;
+	font-size:11px;
+}
+#suby
+{
+	color:#dccc80;
+
+	
+}
+#text
+{
+	color:#c20459;
+}
+.cuntentsub
+{
+	width:25%;
+	background:#1c1c2e;
+	color:white;
+	position:absolute;
+	padding:10px;
+	border-radius:0 5px 5px 0;
+	opacity:.8;
+	
+	left:-600;
+}
+
+#text:hover
+{
+	color:#ff0f9f;
+}
+#gamaa
+{
+	float:left;
+	width:200px;
+	height:150;
+	padding: 10px;
+	background-color: #f1fa46;
+}
+.bg1
+{
+	background-image:url(http://drive.google.com/uc?export=view&id=1vDLTdfiED9M2z1NbEjJeOX-utTsu51mp);
+	height:270;
+	background-position:50% 80%;
+	background-size:150;
+	filter:blur(5px) brightness(120%);
+}
+
+#www
+{
+	filter:blur(5px) brightness(100%);
+	animation-name:slide;
+	animation-duration:5s;
+	animation-iteration-count:infinite;
+	animation-direction:alternate;
+	animation-fill-mode:forwards;
+	
+}
+@keyframes slide
+{
+	100%{left:0;}
+}
+
+#www:hover
+{
+	filter:blur(0px) brightness(100%);
+}
+#footer
+{
+background:#999;
+}
+#left
+{
+	float:right;
+}
+#blur
+{
+	filter:blur(50px) brightness(150%);
+	margin:50px;
+}
+.bg2
+{
+	background-image:url(http://drive.google.com/uc?export=view&id=1vDLTdfiED9M2z1NbEjJeOX-utTsu51mp);
+	height:270;
+	background-position:50% 80%;
+	background-size:150;
+	filter:blur(5px) brightness(120%);
+}
+#divaa
+{
+	height:500px;
+	width:80%;
+	border-radius:15px;
+	border:2px solid red;
+	background-size:100%;
+	background-position:center;
+	transition:1s ease;
+
+}
+#divaa:hover
+{
+
+	border:2px solid blue;
+	background-size:150%;
+	background-position:50% 35%;
+}
+#divaaa
+{
+	height:450px;
+	width:80%;
+	border-radius:15px;
+	border:2px solid red;
+	background-size:100%;
+	background-position:center;
+	transition:1s ease;
+
+}
+#divaaa:hover
+{
+
+	border:4px solid blue;
+	background-size:130%;
+	background-position:50% 45%;
+}
+#divaaaa
+{
+	height:450px;
+	width:80%;
+	border-radius:15px;
+	border:2px solid red;
+	background-size:160%;
+	background-position:center;
+	transition:1s ease;
+
+}
+#divaaaa:hover
+{
+
+	border:4px solid blue;
+	background-size:200%;
+	background-position:50% 45%;
+}
+#divaaaaa
+{
+	height:450px;
+	width:80%;
+	border-radius:15px;
+	border:2px solid red;
+	background-size:1000%;
+	background-position:center;
+	transition:1s ease;
+
+}
+#divaaaaa:hover
+{
+
+	border:4px solid blue;
+	background-size:50%;
+	background-position:50% 45%;
+}
+#diva
+{
+	height:5px;
+	width:5;
+	border-radius:100px;
+	border:36px solid blue;
+	background-size:100%;
+	background-position:center;
+	transition:3s ease;
+
+}
+#diva:hover
+{
+	height:525px;
+	width:82%;
+	border-radius:30px;
+	border:2px solid red;
+	
+	
+}
+#theme:hover
+{
+	color:#c20459;
+	width:100%;
+}
+#theme:hover
+{
+	color:white;
+	width:100%;
+}
